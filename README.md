@@ -30,5 +30,5 @@
 </div>
 <h5>Backend<h5/>
 <div>
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
 </div>
